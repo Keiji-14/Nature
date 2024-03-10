@@ -7,6 +7,7 @@
     "com.unity.material-switch": "0.9.2-preview",
     "com.unity.meshsync": "0.17.3-preview",
     "com.unity.recorder": "4.0.1",
+    "com.unity.render-pipelines.universal": "14.0.8",
     "com.unity.streaming-image-sequence": "0.17.2-preview",
     "com.unity.test-framework": "1.1.33",
     "com.unity.textmeshpro": "3.0.6",
